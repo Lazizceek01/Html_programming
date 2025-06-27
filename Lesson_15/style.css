@@ -1,0 +1,17 @@
+/* Hamma narsaga tasir qiluvchi atribut */
+*{
+  color: red;
+}
+.soso{
+  color: blue;
+  box-shadow: 0 0 15px;
+}
+
+.nima{
+  border: 2px solid;
+  box-shadow: 0 0 10px;
+}
+
+[welcome]{
+ color: yellow;
+}
