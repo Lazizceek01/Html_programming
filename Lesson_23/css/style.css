@@ -1,0 +1,17 @@
+/* GLOBAL */
+body{
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  letter-spacing: 0.5px;
+  color: #000;
+  background-color: #fff;
+}
+
+/* Header */
+.site-logo-img{
+  object-fit: cover;
+  height: 50px;
+}
